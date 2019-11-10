@@ -45,3 +45,7 @@ Project Online restaurant
 
 ![img6](https://user-images.githubusercontent.com/48233962/68537672-8d60ce00-039a-11ea-8520-9bfed3b64e5d.png)
 
+ผู้จัดทำ
+1. นาย วิชฌากร จีกัน 61020762
+2. นาย รัฐกานต์ วาเพชร 61020740
+
