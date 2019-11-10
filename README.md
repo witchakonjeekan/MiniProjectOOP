@@ -1,6 +1,8 @@
 # MiniProjectOOP
 Project Online restaurant 
 
+ลิ้งสำรองกรณี github มีปัญหา  https://drive.google.com/drive/folders/1a0o4JR6zjX0yMbp-0JFFR8fqHZNhRSwj?usp=sharing
+
 1.หน้าแแรกของโปรแกรมเป็นชื่อร้านมีปุ่มผู้จัดทำและปุ่มถัดไปเพื่อไปยังหน้าที่ 2 
 ![img1](https://user-images.githubusercontent.com/48233962/68537603-5807b080-0399-11ea-8fc4-e7aca02dcedd.png)
 
